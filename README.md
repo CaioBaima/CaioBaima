@@ -1,4 +1,4 @@
-# Quem sou eu?
+![Header](./github-header-image.png)
 
 Todo mundo achou estranho a ideia de migrar da antropologia para a ciência de dados...
 Mas, sabe que quanto mais estudo essa nova abordagem, percebo que se tratam de ciências com objetivos extremamente similares: processar dados e gerar insights.
@@ -25,4 +25,4 @@ Atualmente estou focado em aperfeiçoar o uso da linguagem enquanto ferramenta e
 Foco em estudar todo dia e os objetivos serão alcançados!
 
 
-<center>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioBaima&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats)</center>
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioBaima&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats) 
