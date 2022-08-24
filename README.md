@@ -1,6 +1,7 @@
 
 ![Header](./github-header-image.png)
 
+
 <h3 align="center">
 Todo mundo achou estranho a ideia de migrar da antropologia para a ciência de dados... Mas, sabe que quanto mais estudo essa nova abordagem, percebo que se tratam de ciências com objetivos extremamente similares: processar dados e gerar insights.
 </h3>
@@ -27,9 +28,6 @@ Foco em estudar todo dia e os objetivos serão alcançados!
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioBaima&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats)
- 
- 
- 
  
 
 <h3 align="center">Fale comigo:</h3>
