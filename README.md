@@ -25,4 +25,4 @@ Atualmente estou focado em aperfeiçoar o uso da linguagem enquanto ferramenta e
 Foco em estudar todo dia e os objetivos serão alcançados!
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaioBaima)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioBaima&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats)
