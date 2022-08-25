@@ -1,6 +1,12 @@
 
 ![Header](./github-header-image.png)
 
+<p align="center">
+<a href="https://linkedin.com/in/caio-baima-113a4314a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-baima-113a4314a" height="30" width="40" /></a>
+<a href="https://instagram.com/cacaiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cacaiou" height="30" width="40" /></a>
+</p>
+
+
 
 <h3 align="center">
 Todo mundo achou estranho a ideia de migrar da antropologia para a ciência de dados... Mas, sabe que quanto mais estudo essa nova abordagem, percebo que se tratam de ciências com objetivos extremamente similares: processar dados e gerar insights.
@@ -29,9 +35,3 @@ Foco em estudar todo dia e os objetivos serão alcançados!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CaioBaima&theme=tokyonight_duo&locale=pt-br)](https://git.io/streak-stats)
  
-
-<h3 align="center">Fale comigo:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/caio-baima-113a4314a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-baima-113a4314a" height="30" width="40" /></a>
-<a href="https://instagram.com/cacaiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cacaiou" height="30" width="40" /></a>
-</p>
